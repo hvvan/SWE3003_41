@@ -1,0 +1,1 @@
+./myauction odbc:mysql://localhost:3306/db2018313414 2018313414 thomaskk0309
